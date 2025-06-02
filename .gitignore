@@ -1,0 +1,5 @@
+data/               # Ignore raw data (too large for GitHub)
+*.csv               # Exclude CSV files
+*.ipynb_checkpoints # Jupyter auto-save files
+__pycache__/        # Python cache
+.DS_Store           # Mac metadata
